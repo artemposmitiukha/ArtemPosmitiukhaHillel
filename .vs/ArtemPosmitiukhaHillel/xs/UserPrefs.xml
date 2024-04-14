@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{AE9D8CB3-FE00-445B-85B9-A37735AAD0AB}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Homework__2__1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ArtemPosmitiukhaHillel" expanded="True">
+            <Node name="Homework_2_1" expanded="True">
+              <Node name="Dependencies" expanded="True" selected="True" />
+            </Node>
+            <Node name="Homework_2_2" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+            </Node>
+            <Node name="Homework_2_3" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+</Properties>
