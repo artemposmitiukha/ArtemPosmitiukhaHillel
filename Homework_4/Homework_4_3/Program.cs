@@ -20,9 +20,10 @@
                     Console.WriteLine();
                 }
             }*/
+            int i;
             for (int j = 1; j <= 10; j++)
             {
-                int i = 1;
+                i = 1;
                 while (i <= 10)
                 {
                     Console.Write($"{i} * {j} = {i * j}\t\t");
