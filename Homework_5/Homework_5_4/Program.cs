@@ -5,6 +5,10 @@ namespace Homework_5_4
 {
     class Program
     {
+        
+        //  Написати програму, яка виводить всі елементи масиву доки не зустрінеться елемент -1.
+        // Масив заповнити рандомними числами, діапазон чисел від -5 до 5. 
+        
         static void Main(string[] args)
         {
             Random random = new Random();
