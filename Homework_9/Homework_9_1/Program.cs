@@ -38,7 +38,7 @@ namespace Homework_9_1
             int age1;
             do
                 Console.Write("Enter age: ");
-            while (!int.TryParse(Console.ReadLine(), out age1));
+            while (!int.TryParse(Console.ReadLine(), out age1) || age1 > 100 || age1 < 1);
             string gender1 = GenderChoice();
 
             Person person1 = new Person(name1, age1, gender1);
@@ -55,7 +55,7 @@ namespace Homework_9_1
             int age3;
             do
                 Console.Write("Enter age: ");
-            while (!int.TryParse(Console.ReadLine(), out age3));
+            while (!int.TryParse(Console.ReadLine(), out age3) || age3 > 100 || age3 < 1);
 
             Person person3 = new Person(name3, age3);
             PrintPerson(person3);

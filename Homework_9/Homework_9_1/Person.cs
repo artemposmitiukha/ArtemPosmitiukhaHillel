@@ -10,7 +10,7 @@ namespace Homework_9_1
         private int age { get; set; }
         private string gender { get; set; }
 
-        public Person(string name, int age = 0, string gender = "Other")
+        public Person(string name, int age, string gender)
         {
             this.name = name;
             this.age = age;
