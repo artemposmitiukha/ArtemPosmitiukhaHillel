@@ -1,5 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
+#
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework_2_1", "Homework_2\Homework_2_1\Homework_2_1.csproj", "{AE9D8CB3-FE00-445B-85B9-A37735AAD0AB}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework_2_3", "Homework_2\Homework_2_3\Homework_2_3.csproj", "{1E8EBB70-B324-4F42-963A-FB02006831F5}"
@@ -43,6 +46,12 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework_9_1", "Homework_9\Homework_9_1\Homework_9_1.csproj", "{DB4F82EE-2352-4942-877E-0106A876BD30}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework_9_2", "Homework_9\Homework_9_2\Homework_9_2.csproj", "{B4377503-5C77-474E-81F0-E154847FC657}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework_10_1", "Homework_10\Homework_10_1\Homework_10_1.csproj", "{CAE3E130-C23E-4C6F-8779-65045514FF2C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework_10_Library", "Homework_10\Homework_10_Library\Homework_10_Library.csproj", "{7D5CF5B1-5F2B-4982-AEEB-11A0E4EEAAE4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework_10_2", "Homework_10\Homework_10_2\Homework_10_2.csproj", "{D6A8E27C-875E-4189-9DEF-076C05BFC5A8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -138,5 +147,22 @@ Global
 		{B4377503-5C77-474E-81F0-E154847FC657}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B4377503-5C77-474E-81F0-E154847FC657}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B4377503-5C77-474E-81F0-E154847FC657}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAE3E130-C23E-4C6F-8779-65045514FF2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAE3E130-C23E-4C6F-8779-65045514FF2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAE3E130-C23E-4C6F-8779-65045514FF2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAE3E130-C23E-4C6F-8779-65045514FF2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D5CF5B1-5F2B-4982-AEEB-11A0E4EEAAE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D5CF5B1-5F2B-4982-AEEB-11A0E4EEAAE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D5CF5B1-5F2B-4982-AEEB-11A0E4EEAAE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D5CF5B1-5F2B-4982-AEEB-11A0E4EEAAE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6A8E27C-875E-4189-9DEF-076C05BFC5A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6A8E27C-875E-4189-9DEF-076C05BFC5A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6A8E27C-875E-4189-9DEF-076C05BFC5A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6A8E27C-875E-4189-9DEF-076C05BFC5A8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
 	EndGlobalSection
 EndGlobal
